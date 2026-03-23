@@ -12,6 +12,6 @@ There are three main pages
 Shows all characters and relationships. You can zoom and pan. If you click on a character, you'll see all the facts in the details panel
 ### Map
 Shows all places. Just like with characters you can click on a place to see all the facts about it. Additionally, you can enter edit mode to add new places or adjust their position for when you want to represent the distances or directions between them.
-###Events
+### Events
 Shows a list of all events in page order
 
